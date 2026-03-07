@@ -1,0 +1,10 @@
+{
+  "name": "Resident Evil 4 Save Room",
+  "description": "Resident Evil 4 save room music.",
+  "author": "NateCurtis402",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}

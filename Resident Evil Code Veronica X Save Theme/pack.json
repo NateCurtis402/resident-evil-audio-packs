@@ -1,0 +1,10 @@
+{
+  "name": "Resident Evil Code Veronica X Save Theme",
+  "description": "Resident Evil Code Veronica X room music.",
+  "author": "NateCurtis402",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
